@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\Lenovo\source\repos\try-2\源.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\try-2\源.cpp(17,25): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\Lenovo\source\repos\try-2\源.cpp(31,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\try-2\源.cpp(35,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lenovo\source\repos\try-2\源.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+  try-2.vcxproj -> C:\Users\Lenovo\source\repos\try-2\Debug\try-2.exe
